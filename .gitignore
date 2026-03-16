@@ -1,0 +1,15 @@
+# Python build / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
